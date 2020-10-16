@@ -3,9 +3,9 @@
 ### Rochelle Roberts Crain
 
 ## Description
-DapperPup is a React Native App for booking your dog grooming appointments.
+DapperPup is React Native app to explore and book the services of my fictional dog grooming business. This 
 
-
+ My vision for this project is to create an app I would like to use for booking my dog Pippa's appointments. 
 
 ## How to use
 - First, download the Expo Client App 
@@ -26,6 +26,10 @@ $ expo start
 
 ## Features
 
+- Browse service options
+- View availability
+- Book appointments
+- View appointment history
 
 ## Technologies Used
 
